@@ -1,0 +1,25 @@
+# Claude settings - contains API keys
+.claude/settings.json
+.claude/settings.local.json
+
+# Session data
+.claude/sessions/
+.claude/session-env/
+.claude/shell-snapshots/
+.claude/tasks/
+.claude/cache/
+.claude/backups/
+.claude/file-history/
+.claude/paste-cache/
+.claude/telemetry/
+.claude/history.jsonl
+.claude/.last-cleanup
+.claude/projects/
+
+# IDE
+.claude/ide/
+.claude/plugins/
+
+# OS
+Thumbs.db
+.DS_Store
