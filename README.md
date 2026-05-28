@@ -57,19 +57,10 @@ with open('面试转录.txt', 'w') as f:
 /interview-qa
 ```
 
-## 使用方式
 
-| 命令 | 作用 |
-|------|------|
-| `/interview-qa` | 查看所有可用话题 |
-| `/interview-qa 选型` | 模型选型（32B/7B/72B 的 trade-off） |
-| `/interview-qa 量化` | 量化选型与部署（INT4/FP8/BF16） |
-| `/interview-qa 评估` | 评估指标定义与评测方法 |
-| `/interview-qa 微调` | 微调策略与业务指标 |
-| `/interview-qa 全部` | 完整走一遍所有 21 个 QA |
 
 ## 覆盖的面试问题
-
+例如：
 ### 职业背景类
 - 工作后回读研的决策逻辑
 - 行业前沿关注度
